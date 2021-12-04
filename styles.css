@@ -1,0 +1,55 @@
+    body {
+        
+        
+        font-size: 18px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #ava {
+        width:350px;
+        border-radius: 15px;
+        box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+
+    }
+    .inf p {
+        color: #000;
+        margin: 0px;
+        display: flex;
+        
+    }
+    
+    
+  
+    
+    .ch img {
+        margin-right: 20px;
+    }
+    .pos {
+        position: static;
+        margin-left: 50px;
+
+    }
+
+    .HUI{
+        width: 125px;
+        height: 1000px;
+        background-color: tomato;
+        margin-left: 1000px;
+        position: absolute;
+        margin-top: 60px    ;
+        border-top-left-radius: 45%;
+        border-top-right-radius: 45%;
+    }
+    .i1 {
+        width: 125px;
+        height: 100px;
+        background-color: tomato;
+        
+    }
+    .tab {
+        display: flex;
+    }
+    .vseeeee{
+        max-width: 950px;
+    }
+
+    
